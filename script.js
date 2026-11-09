@@ -1,5 +1,3 @@
-// document.addEventListener("DOMContentLoaded", () => {setTimeout(() => {
-
 alert('1.1')
 {
 let student = `Сердюк Ярослав`
@@ -136,5 +134,3 @@ alert('4.1')
 
         btn.addEventListener('click', () => {title.innerText = "JavaScript is awesome!"})
     }
-
-// }, 50);});
